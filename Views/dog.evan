@@ -1,0 +1,7 @@
+Dog
+
+<h3>This is $Dog.Name</h3>
+
+<h3>They are $Dog.Age years old. Their coat is the color $Dog.Color</h3> 
+
+<img src="$Dog.Url" />

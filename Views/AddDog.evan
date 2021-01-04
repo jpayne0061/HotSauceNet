@@ -1,0 +1,19 @@
+Dog
+
+Add a Dog
+
+<form action="/AddDog" method="get">
+  <label for="Age">Age:</label>
+  <input type="text" id="Age" name="Age"><br><br>
+
+  <label for="Name">Name:</label>
+  <input type="text" id="Name" name="Name"><br><br>
+
+  <label for="Color">Color:</label>
+  <input type="text" id="Color" name="Color"><br><br>
+
+  <label for="url">Pic Url:</label>
+  <input type="text" id="url" name="url"><br><br>
+
+  <input type="submit" value="Submit">
+</form>
